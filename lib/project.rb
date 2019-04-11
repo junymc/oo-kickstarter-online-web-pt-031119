@@ -3,4 +3,6 @@ class Project
 
   def initialize
     @bakers = []
+  end
+  
 end
